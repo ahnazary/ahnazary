@@ -1,6 +1,7 @@
 
-
-![alt text](https://github.com/ahnazary/ahnazary/blob/image_data_engineer.png?raw=true)
+<p align="center">
+<img src="https://github.com/ahnazary/ahnazary/blob/master/image_data_engineer.png?raw=true" width="900" height="500">
+</p>
 
 ### :wave: Hi there, I'm Amir. 
 
