@@ -121,11 +121,17 @@ Thank you for visiting my Github profile. Feel free to reach out to me if you ha
 ### :fire: My Stats :
 
 <p align="center">
-[   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahnazary&theme=dark&background=000000)](https://git.io/streak-stats)
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ahnazary&theme=dark&background=000000" alt="Amirs's GitHub stats" />
+
 </p>
+
 <p align="center">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnazary&show_icons=true&theme=vision-friendly-dark)]()
+  <img src="https://github-readme-stats.vercel.app/api?username=ahnazary&show_icons=true&theme=vision-friendly-dark" alt="Github stats" />
+
 </p>
+
 <p align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnazary&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnazary&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+
 </p>
+  
