@@ -1,10 +1,19 @@
-about me section
+<div id="badges">
+  <a href="https://www.linkedin.com/in/amirhossein-nazary/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://stackoverflow.com/users/18032364/amirhossein-nazary">
+    <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
+</div>
+
+<div align="center">
+  <img src="/home/amirhossein/Documents/GitHub/ahnazary/image_data_engineer.png" alt="Data Engineer" width="600" height="300">
+</div>
+
+<br />
 ### :wave: Hi there, I'm Amir. 
 
-<div class="tenor-gif-embed" data-postid="24166770" data-share-method="host" data-aspect-ratio="1.40351" data-width="100%"><a href="https://tenor.com/view/date-everywhere-data-digital-marketing-gif-24166770">Date Everywhere Data GIF
-</a>from <a href="https://tenor.com/search/date+everywhere-gifs">Date Everywhere GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-Hello! My name is Amirhossein and I am currently a data engineer intern and an electrical engineering student. I have always been interested in the intersection of technology and data, and I am excited to be able to work on projects that allow me to explore these passions.
+Hello! My name is Amir and I am currently a data engineer intern and an electrical engineering student. I have always been interested in the intersection of technology and data, and I am excited to be able to work on projects that allow me to explore these passions.
 
 As a data engineer intern, I have had the opportunity to work on a variety of projects, including building data pipelines, optimizing data storage and retrieval, developing machine learning models and developing unit tests. I have also gained valuable experience working with large datasets and utilizing tools such as Python, SQL, Docker and AWS.
 
@@ -13,14 +22,6 @@ In addition to my data engineering work, I am also studying electrical engineeri
 I am always looking for new opportunities to learn and grow as a data engineer. 
 
 Thank you for visiting my Github profile. Feel free to reach out to me if you have any questions or would like to connect!
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/amirhossein-nazary/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://stackoverflow.com/users/18032364/amirhossein-nazary">
-    <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
-</div>
 
 ---
 
