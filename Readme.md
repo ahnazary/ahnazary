@@ -7,7 +7,7 @@
 
 Hello! My name is Amir and I am currently a data engineer intern and an electrical engineering student. I have always been interested in the intersection of technology and data, and I am excited to be able to work on projects that allow me to explore these passions.
 
-As a data engineer intern, I have had the opportunity to work on a variety of projects, including building data pipelines, optimizing data storage and retrieval, developing machine learning models and developing unit tests. I have also gained valuable experience working with large datasets and utilizing tools such as Python, SQL, Docker and AWS.
+As a data engineering intern, I have had the opportunity to work on a variety of projects, including building data pipelines, optimizing data storage and retrieval, developing machine learning models and creating unit tests. I have also gained valuable experience working with large datasets and utilizing tools such as Python, SQL, Docker and AWS.
 
 In addition to my data engineering work, I am also studying electrical engineering at RWTH university. Through my coursework and projects, I have gained a strong foundation in electrical and data engineering principles, and have worked on projects ranging from simulation and optimization to testing and data processing.
 
