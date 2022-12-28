@@ -1,16 +1,7 @@
-<div id="badges">
-  <a href="https://www.linkedin.com/in/amirhossein-nazary/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://stackoverflow.com/users/18032364/amirhossein-nazary">
-    <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
-</div>
 
-<div align="center">
-  <img src="/home/amirhossein/Documents/GitHub/ahnazary/image_data_engineer.png" alt="Data Engineer" width="600" height="300">
-</div>
 
-<br />
+![alt text](https://github.com/ahnazary/ahnazary/blob/image_data_engineer.png?raw=true)
+
 ### :wave: Hi there, I'm Amir. 
 
 Hello! My name is Amir and I am currently a data engineer intern and an electrical engineering student. I have always been interested in the intersection of technology and data, and I am excited to be able to work on projects that allow me to explore these passions.
@@ -24,6 +15,14 @@ I am always looking for new opportunities to learn and grow as a data engineer.
 Thank you for visiting my Github profile. Feel free to reach out to me if you have any questions or would like to connect!
 
 ---
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/amirhossein-nazary/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://stackoverflow.com/users/18032364/amirhossein-nazary">
+    <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
+</div>
 
 ### :computer: Programming Languages
 <div>
