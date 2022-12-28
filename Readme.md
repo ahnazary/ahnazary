@@ -53,6 +53,18 @@
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge"/>
     </a>
+    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/eclipse IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" alt="Eclipse Badge"/>
+    </a>
 </div>
 
 ### :books: Libraries & Frameworks
@@ -79,3 +91,9 @@
     </a>
 
 <div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahnazary&theme=dark&background=000000)](https://git.io/streak-stats)
