@@ -3,7 +3,7 @@
 <img src="https://github.com/ahnazary/ahnazary/blob/master/image_data_engineer.png?raw=true" width="900" height="500">
 </p>
 
-### :wave: Hi there, I'm Amir. 
+### :wave:
 
 Hello! My name is Amir and I am currently a data engineering intern and an electrical engineering student. I have always been interested in the intersection of technology and data, and I am excited to be able to work on projects that allow me to explore these passions.
 
@@ -71,7 +71,7 @@ Thank you for visiting my Github profile. Feel free to reach out to me if you ha
     </a>
 </div>
 
-### :books: Libraries & Frameworks
+<!-- ### :books: Libraries & Frameworks
 <div>   
     <a>
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
@@ -94,10 +94,10 @@ Thank you for visiting my Github profile. Feel free to reach out to me if you ha
         <img src="https://img.shields.io/badge/python sqlite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite3 Badge"/>
     </a>
 
-<div>
+<div> -->
 
 
-### :pencil2: IDEs
+<!-- ### :pencil2: IDEs
 <div>
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge"/>
@@ -114,7 +114,7 @@ Thank you for visiting my Github profile. Feel free to reach out to me if you ha
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/eclipse IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" alt="Eclipse Badge"/>
     </a>
-</div>
+</div> -->
 
 ---
 
