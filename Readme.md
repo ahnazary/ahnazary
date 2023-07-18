@@ -3,6 +3,16 @@
 <img src="https://github.com/ahnazary/ahnazary/blob/master/image_data_engineer.png?raw=true" width="900" height="500">
 </p>
 
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/amirhossein-nazary/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://stackoverflow.com/users/18032364/amirhossein-nazary">
+    <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
+</div>
+
+
 ### :wave:
 
 Hello! My name is Amir and I am currently a data engineer and an electrical engineering student. I have always been interested in the intersection of technology and data, and I am excited to be able to work on projects that allow me to explore these passions using data engineering principles and state-of-the-art tools.
@@ -17,14 +27,6 @@ Thank you for visiting my Github profile. Feel free to reach out to me if you ha
 
 ---
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/amirhossein-nazary/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://stackoverflow.com/users/18032364/amirhossein-nazary">
-    <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
-</div>
-
 ### :computer: Programming Languages
 <div>
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
@@ -36,6 +38,10 @@ Thank you for visiting my Github profile. Feel free to reach out to me if you ha
     </a>
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala Badge"/>
+    </a> 
 </div>
 
 ### :hammer_and_wrench: Technologies & Tools
@@ -45,21 +51,63 @@ Thank you for visiting my Github profile. Feel free to reach out to me if you ha
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
     </a>
+    <!-- azure -->
+    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Badge"/>
+    </a>
+    <!-- aws -->
     <a>
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
     </a>
+    <!-- airflow -->
+    <a>
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+    <!-- spark -->
+    <a>
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark Badge"/>
+    </a>
+    <!-- Terraform -->
+    <a>
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge"/>
+    </a>
+    <!-- kubernetes -->
+    <a>
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
+    </a>
+    <a>
+    <!-- postgres -->
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres Badge"/>
+    </a>
+    <!-- clckhouse -->
+    <a>
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/clickhouse-FF0000?style=for-the-badge&logo=clickhouse&logoColor=white" alt="Clickhouse Badge"/>
+    </a>
+    <a>
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+    </a>
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+    <!--  GitLab CI -->
     </a>
-    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/gitlab CI-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI Badge"/>
+    </a>
+    <!--  GitHub Actions -->
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
     </a>
+    <a>
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Badge"/>
     </a>
@@ -68,6 +116,14 @@ Thank you for visiting my Github profile. Feel free to reach out to me if you ha
     </a>
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
+    </a>
+    <a>
+    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest Badge"/>
+    </a>
+    <a>
+    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
     </a>
 </div>
 
