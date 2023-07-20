@@ -47,8 +47,9 @@ Thank you for visiting my Github profile. Feel free to reach out to me if you ha
 ### :hammer_and_wrench: Technologies & Tools
 
 <div>
+    <!-- Docker -->
     <a>
-    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
     </a>
     <!-- azure -->
@@ -117,12 +118,19 @@ Thank you for visiting my Github profile. Feel free to reach out to me if you ha
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
     </a>
+    <!-- grafana -->
     <a>
-    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Badge"/>
+    </a>
+    <!-- Pytest -->
+    <a>
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest Badge"/>
     </a>
+    <!-- Pandas -->
     <a>
-    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
     </a>
 </div>
