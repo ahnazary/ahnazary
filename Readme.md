@@ -29,22 +29,26 @@ Thank you for visiting my Github profile. Feel free to reach out to me if you ha
 
 ### :computer: Programming Languages
 <div>
+    <!-- Python -->
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
     </a>
+    <!-- SQL -->
     <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="SQL Badge"/>
     </a>
+    <!-- Java -->
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
     </a>
+    <!-- Scala -->
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala Badge"/>
     </a> 
 </div>
 
-### :hammer_and_wrench: Technologies & Tools
+### :hammer_and_wrench: Tech Stack
 
 <div>
     <!-- Docker -->
@@ -66,6 +70,11 @@ Thank you for visiting my Github profile. Feel free to reach out to me if you ha
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow Badge"/>
     </a>
+    <!-- Pandas -->
+    <a>
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
+    </a>
     <!-- spark -->
     <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
@@ -80,6 +89,11 @@ Thank you for visiting my Github profile. Feel free to reach out to me if you ha
     <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
+    </a>
+    <!-- kustomize -->
+    <a>
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kustomize Badge"/>
     </a>
     <a>
     <!-- postgres -->
@@ -105,16 +119,20 @@ Thank you for visiting my Github profile. Feel free to reach out to me if you ha
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions Badge"/>
     </a>
+    <!-- Linux -->
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
     </a>
+    <!-- macos -->
     <a>
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Badge"/>
     </a>
+    <!-- GitHub -->
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
+    <!-- GitLab -->
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
     </a>
@@ -123,15 +141,25 @@ Thank you for visiting my Github profile. Feel free to reach out to me if you ha
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Badge"/>
     </a>
+    <!-- prometheus -->
+    <a>
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus Badge"/>
+    </a>
     <!-- Pytest -->
     <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest Badge"/>
     </a>
-    <!-- Pandas -->
+    <!-- jira -->
     <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
-        <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
+        <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge"/>
+    </a>
+    <!-- confluence -->
+    <a>
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence Badge"/>
     </a>
 </div>
 
@@ -159,7 +187,6 @@ Thank you for visiting my Github profile. Feel free to reach out to me if you ha
     </a>
 
 <div> -->
-
 
 <!-- ### :pencil2: IDEs
 <div>
