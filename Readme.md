@@ -119,15 +119,6 @@ Thank you for visiting my Github profile. Feel free to reach out to me if you ha
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions Badge"/>
     </a>
-    <!-- Linux -->
-    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
-    </a>
-    <!-- macos -->
-    <a>
-    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
-        <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Badge"/>
-    </a>
     <!-- GitHub -->
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
