@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/ahnazary/ahnazary/blob/master/image_data_engineer.png?raw=true" width="900" height="500">
+<img src="https://github.com/ahnazary/ahnazary/blob/master/image_data_engineer.png?raw=true" width="1280" height="640">
 </p>
 
 
