@@ -1,7 +1,6 @@
 
 <p align="center">
-<!-- Images should be at least 640×320px (1280×640px for best display). -->
-<img src="https://github.com/ahnazary/ahnazary/blob/master/image_data_engineer.png?raw=true" width="1280" height="640">
+<img src="https://github.com/ahnazary/ahnazary/blob/master/image_data_engineer.png?raw=true" width="900" height="500">
 </p>
 
 
