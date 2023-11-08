@@ -16,15 +16,11 @@
 </div>
 
 
-### :wave:
+HI ### :wave:
 
-Hello! My name is Amir and I am currently a data engineer and an electrical engineering student. I have always been interested in the intersection of technology and data, and I am excited to be able to work on projects that allow me to explore these passions using data engineering principles and state-of-the-art tools.
+I'm a data engineer with a background in electrical engineering. I have always been interested in the intersection of technology and data and have worked on projects in these areas throughout my career.
 
-As a data engineer, I have had the opportunity to work on a variety of projects, including building data pipelines, optimizing data storage and retrieval, developing machine learning models and creating unit tests, all in cloud environments.
-
-In addition to my data engineering work, I am also studying electrical engineering at RWTH university. Through my coursework and projects, I have gained a strong foundation in electrical and engineering principles, and have worked on projects ranging from simulation and optimization to testing and data processing.
-
-Thank you for visiting my Github profile. Feel free to reach out to me if you have any questions or would like to connect!
+As a data engineer, I have had the opportunity to work on a variety of projects, including building data pipelines, optimizing data storage and retrieval, collaborating of machine learning models development, and creating unit tests, all in cloud environments.
 
 ---
 
