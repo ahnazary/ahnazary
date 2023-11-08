@@ -16,7 +16,7 @@
 </div>
 
 
-HI ### :wave:
+Hi :wave:
 
 I'm a data engineer with a background in electrical engineering. I have always been interested in the intersection of technology and data and have worked on projects in these areas throughout my career.
 
