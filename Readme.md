@@ -149,6 +149,16 @@ As a data engineer, I have had the opportunity to work on a variety of projects,
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence Badge"/>
     </a>
+    <!-- dagster -->
+    <a>
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/dagster-2A7ED0?style=for-the-badge&logo=dagster&logoColor=white" alt="Dagster Badge"/>
+    </a>
+    <!-- dbt -->
+    <a>
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/dbt-FF6600?style=for-the-badge&logo=dbt&logoColor=white" alt="DBT Badge"/>
+    </a>
 </div>
 
 <!-- ### :books: Libraries & Frameworks
