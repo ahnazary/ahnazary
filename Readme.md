@@ -15,12 +15,14 @@
     </a>
 </div>
 
+:wave:
 
-Hi :wave:
+Data engineer with a background in electrical engineering. Love working with data and building pipelines and cloud infrastructure.
 
-I'm a data engineer with a background in electrical engineering. I have always been interested in the intersection of technology and data and have worked on projects in these areas throughout my career.
 
-As a data engineer, I have had the opportunity to work on a variety of projects, including building data pipelines, optimizing data storage and retrieval, collaborating of machine learning models development, and creating unit tests, all in cloud environments.
+<!-- I'm a data engineer with a background in electrical engineering. I have always been interested in the intersection of technology and data and have worked on projects in these areas throughout my career.
+
+As a data engineer, I have had the opportunity to work on a variety of projects, including building data pipelines, optimizing data storage and retrieval, collaborating of machine learning models development, and creating unit tests, all in cloud environments. -->
 
 ---
 
