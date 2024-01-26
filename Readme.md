@@ -6,7 +6,7 @@
 
 <div id="badges">
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/amirhossein-nazary/">
+    <a href="https://www.linkedin.com/in/amir-nazary/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <!-- stackoverflow -->
