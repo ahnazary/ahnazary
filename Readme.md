@@ -1,9 +1,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahnazary&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<p align="center">
+<!-- <p align="center">
 <img src="image_delta_pipeline_cloud.png?raw=true" width="900" height="500">
-</p>
+</p> -->
 
 
 <div id="badges">
