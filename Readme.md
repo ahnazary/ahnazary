@@ -66,11 +66,6 @@ Data and Software engineer. Love working with data and building pipelines and cl
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow Badge"/>
     </a>
-    <!-- Pandas -->
-    <a>
-        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
-        <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
-    </a>
     <!-- spark -->
     <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
@@ -100,16 +95,6 @@ Data and Software engineer. Love working with data and building pipelines and cl
     <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/dbt-FF6600?style=for-the-badge&logo=dbt&logoColor=white" alt="DBT Badge"/>
-    </a>
-    <!-- meltano -->
-    <a>
-        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
-        <img src="https://img.shields.io/badge/meltano-FF6600?style=for-the-badge&logo=meltano&logoColor=white" alt="Meltano Badge"/>
-    </a>
-    <!-- cubejs -->
-    <a>
-        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
-        <img src="https://img.shields.io/badge/cubejs-FF6600?style=for-the-badge&logo=cubejs&logoColor=white" alt="CubeJS Badge"/>
     </a>
     <a>
     <!-- postgres -->
@@ -143,6 +128,16 @@ Data and Software engineer. Love working with data and building pipelines and cl
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
     </a>
+    <!-- meltano -->
+    <a>
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/meltano-FF6600?style=for-the-badge&logo=meltano&logoColor=white" alt="Meltano Badge"/>
+    </a>
+    <!-- cubejs -->
+    <a>
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/cubejs-FF6600?style=for-the-badge&logo=cubejs&logoColor=white" alt="CubeJS Badge"/>
+    </a>
     <!-- grafana -->
     <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
@@ -152,6 +147,11 @@ Data and Software engineer. Love working with data and building pipelines and cl
     <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus Badge"/>
+    </a>
+    <!-- Pandas -->
+    <a>
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
     </a>
     <!-- Pytest -->
     <a>
