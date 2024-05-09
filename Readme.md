@@ -19,7 +19,7 @@
 
 :wave:
 
-Data and Software engineer. Love working with data and building pipelines and cloud based solutions.
+As cliché as it sounds, Love building things and solving problems.
 
 ---
 
