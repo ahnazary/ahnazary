@@ -19,7 +19,7 @@
 
 :wave:
 
-As cliché as it sounds, Love building things and solving problems.
+As cliché as it sounds, Love building things (specialy from scratch :smile:).
 
 ---
 
@@ -61,36 +61,31 @@ As cliché as it sounds, Love building things and solving problems.
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
     </a>
-    <!-- airflow -->
+    <!-- airflow
     <a>
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow Badge"/>
-    </a>
+    </a> -->
     <!-- spark -->
     <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark Badge"/>
     </a>
     <!-- Terraform -->
-    <a>
+    <!-- <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge"/>
-    </a>
+    </a> -->
     <!-- kubernetes -->
     <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
     </a>
     <!-- kustomize -->
-    <a>
+    <!-- <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kustomize Badge"/>
-    </a>
-    <!-- dagster -->
-    <a>
-        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
-        <img src="https://img.shields.io/badge/dagster-2A7ED0?style=for-the-badge&logo=dagster&logoColor=white" alt="Dagster Badge"/>
-    </a>
+    </a> -->
     <!-- dbt -->
     <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
@@ -106,77 +101,72 @@ As cliché as it sounds, Love building things and solving problems.
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/clickhouse-FF0000?style=for-the-badge&logo=clickhouse&logoColor=white" alt="Clickhouse Badge"/>
     </a>
-    <a>
+    <!-- <a>
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/"> -->
+    <!-- </a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
-    </a>
-        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
-        <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+        <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/> -->
     <!--  GitLab CI -->
-    </a>
+    <!-- </a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/gitlab CI-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI Badge"/>
-    </a>
+    </a> -->
     <!--  GitHub Actions -->
-        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <!-- <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions Badge"/>
-    </a>
+    </a> -->
     <!-- GitHub -->
-    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+    <!-- <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </a>
+    </a> -->
     <!-- GitLab -->
-    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+    <!-- <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
-    </a>
+    </a> -->
     <!-- meltano -->
-    <a>
+    <!-- <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/meltano-FF6600?style=for-the-badge&logo=meltano&logoColor=white" alt="Meltano Badge"/>
-    </a>
+    </a> -->
     <!-- cubejs -->
-    <a>
+    <!-- <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/cubejs-FF6600?style=for-the-badge&logo=cubejs&logoColor=white" alt="CubeJS Badge"/>
-    </a>
+    </a> -->
     <!-- grafana -->
-    <a>
+    <!-- <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Badge"/>
-    </a>
+    </a> -->
     <!-- prometheus -->
     <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus Badge"/>
     </a>
     <!-- Pandas -->
-    <a>
+    <!-- <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
-    </a>
+    </a> -->
     <!-- Pytest -->
-    <a>
+    <!-- <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest Badge"/>
-    </a>
+    </a> -->
     <!-- jira -->
-    <a>
+    <!-- <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge"/>
-    </a>
+    </a> -->
     <!-- confluence -->
-    <a>
+    <!-- <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence Badge"/>
-    </a>
+    </a> -->
     <!-- dagster -->
     <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/dagster-2A7ED0?style=for-the-badge&logo=dagster&logoColor=white" alt="Dagster Badge"/>
-    </a>
-    <!-- dbt -->
-    <a>
-        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
-        <img src="https://img.shields.io/badge/dbt-FF6600?style=for-the-badge&logo=dbt&logoColor=white" alt="DBT Badge"/>
     </a>
 </div>
 
