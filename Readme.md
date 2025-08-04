@@ -15,6 +15,7 @@
 :wave:
 
 As cliché as it sounds, Love building things.
+
 Open to open-source contributions and collaborations, especially in fintech domain. 
 
 ---
