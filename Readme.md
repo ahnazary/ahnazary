@@ -1,17 +1,3 @@
-<div id="badges">
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/amir-nazary/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <!-- stackoverflow -->
-    <a href="https://stackoverflow.com/users/18032364/amirhossein-nazary">
-        <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
-    </a>
-    <!-- leetcode -->
-    <a href="https://leetcode.com/ahnazary/">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-</div>
-
 :wave:
 
 As cliché as it sounds, Love building things.
