@@ -13,36 +13,9 @@
 </div>
 
 
-:wave:
-
 As cliché as it sounds, Love building things.
 
-Open to open-source contributions and collaborations, especially in fintech domain. 
-
----
-
-### :computer: Programming Languages
-<div>
-    <!-- Python -->
-    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
-        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-    </a>
-    <!-- SQL -->
-    <a>
-        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="SQL Badge"/>
-    </a>
-    <!-- Java -->
-    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
-        <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
-    </a>
-    <!-- Scala -->
-    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
-        <img src="https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala Badge"/>
-    </a> 
-</div>
-
-### :hammer_and_wrench: Tech Stack
+### Tech Stack
 
 <div>
     <!-- Docker -->
@@ -55,25 +28,44 @@ Open to open-source contributions and collaborations, especially in fintech doma
         <img src="https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Badge"/>
     </a>
     <!-- aws -->
-    <a>
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
     </a>
-    <!-- airflow
+    <!-- Python -->
+    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+    </a>
+    <!-- SQL -->
     <a>
+        <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="SQL Badge"/>
+    </a>
+    <!-- Snowflake -->
+    <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/snowflake-00B2E2?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake Badge"/>
+    </a>
+    <!-- Java -->
+    <!-- <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+    </a> -->
+    <!-- Scala -->
+    <!-- <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
+        <img src="https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala Badge"/>
+    </a> -->
+    <!-- Airflow -->
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow Badge"/>
-    </a> -->
+    </a>
     <!-- spark -->
     <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark Badge"/>
     </a>
     <!-- Terraform -->
-    <!-- <a>
+    <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge"/>
-    </a> -->
+    </a>
     <!-- kubernetes -->
     <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
@@ -162,10 +154,11 @@ Open to open-source contributions and collaborations, especially in fintech doma
         <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence Badge"/>
     </a> -->
     <!-- dagster -->
-    <a>
+    <!-- <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/dagster-2A7ED0?style=for-the-badge&logo=dagster&logoColor=white" alt="Dagster Badge"/>
-    </a>
+    </a> -->
+    
 </div>
 
 <!-- ### :books: Libraries & Frameworks
@@ -213,8 +206,6 @@ Open to open-source contributions and collaborations, especially in fintech doma
 </div> -->
 
 ---
-
-### :fire: My Stats :
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ahnazary&theme=dark&background=000000" alt="Amirs's GitHub stats" />
