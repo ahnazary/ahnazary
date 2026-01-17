@@ -204,3 +204,17 @@ As cliché as it sounds, Love building things.
         <img src="https://img.shields.io/badge/eclipse IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" alt="Eclipse Badge"/>
     </a>
 </div> -->
+
+---
+
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahnazary&theme=dark&background=000000" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahnazary&show_icons=true&theme=vision-friendly-dark" alt="Github stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnazary&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+</p> -->
