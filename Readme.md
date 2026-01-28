@@ -1,28 +1,34 @@
 <div id="badges">
+    <!-- personal website -->
+    <a href="https://ahnazary.com/">
+        <img src="https://img.shields.io/badge/Website-4BC3F7?style=for-the-badge&logo=about.me&logoColor=white" alt="Website Badge"/>
+    </a>
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/amir-nazary/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <!-- leetcode -->
+    <a href="https://leetcode.com/ahnazary/">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
     </a>
     <!-- stackoverflow -->
     <a href="https://stackoverflow.com/users/18032364/amirhossein-nazary">
         <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
     </a>
-    <!-- leetcode -->
-    <a href="https://leetcode.com/ahnazary/">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
 </div>
 
+<br />
 
-As cliché as it sounds, Love building things.
+As cliché as it sounds, love building and shipping products and solutions.
 
 ### Tech Stack
 
 <div>
     <!-- Docker -->
-    <a>
+    <!-- <a>
         <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-    </a>
+    </a> -->
     <!-- azure -->
     <a href="https://www.linkedin.com/in/amirhossein-nazary/details/skills/">
         <img src="https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Badge"/>
