@@ -19,7 +19,7 @@
 
 <br />
 
-As cliché as it sounds, love building and shipping products and solutions.
+As cliché as it sounds, love building and shipping stuff :)
 
 ### Tech Stack
 
